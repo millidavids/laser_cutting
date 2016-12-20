@@ -10,15 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="302mm"
-   height="95mm"
-   viewBox="0 0 1070.0787 336.61417"
-   id="svg3450"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg3434"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="ships_short_side.svg">
   <defs
-     id="defs3452" />
+     id="defs3436" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,10 +26,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1830905"
-     inkscape:cx="535.03937"
-     inkscape:cy="168.30709"
-     inkscape:document-units="mm"
+     inkscape:zoom="0.65091657"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.1811"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
@@ -38,7 +38,7 @@
      inkscape:window-y="1"
      inkscape:window-maximized="1" />
   <metadata
-     id="metadata3455">
+     id="metadata3439">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -52,30 +52,32 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-715.74803)">
+     id="layer1">
     <image
-       y="735.61041"
-       x="27.381466"
-       id="image3482"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAABlCAYAAADEb1QAAAAABHNCSVQICAgIfAhkiAAAAsdJREFU
-eJzt2zFLanEcxvFHOSRERKBdCxd7AYFI4K0pyTUcXAUVWopGwcVN6GWEoIM0SYk6RIPgcJYipxIX
-F0URG+5yoQPeofsO/n96hJ7PC3j48R3+y+H4/H7/KhwOQ77HfD7Hzc3NthMOhzGZTNj3/BjRaBQA
-4Oee8XMpPInCkyg8icKTKDyJwpMoPInCkyg8icKTKDyJwpMoPInCkyg8icKTOJ7n4e3tzXhoZ2cH
-e3t7Fk5aT7PZDB8fH8Y7n5+fAABfMplcmY4tl0vE43Hc3t4aH7auLi8v0e/3EQqFjLcKhcKW8/T0
-ZDzU7XZxd3dnvLPuKpUK0um0jSlPbzyJwpMoPInCkyg8icKTKDyJwpMoPInCkyg8icKTKDyJwpMo
-PInCkyg8idNsNo1HXl5eLJyy/lzXxWpl/KUUsVjM59vc3FzlcjnjsZOTE2SzWeOdddVoNNDr9Yx3
-6vU6yuXytm9/f3+l/1y/TzQaxdXV1bbeeBKFJ1F4EoUnUXgShSdReBKFJ1F4EoUnUXgShSdReBKF
-J1F4EoUnUXgShSdReBKFJ1F4EoUnUXgShSdReBKFJ1F4EoUnUXgShSdReBKFJ1F4EoUnUXgShSdR
-eBKFJ1F4EsfWULvdhuu6VrYODg6Qz+eNd2q1GkajkflBAI6OjnB+fm5lC7AYvtPpwPM8xONxo53Z
-bIZqtWolfL1ex/HxMSKRiNHOYDDAw8PDeoYHgFQqhUwmY7QxHA7x+Pho6SIgk8ng8PDQaKPVauH+
-/t7SRV/0xpMoPInCkyg8icKTKDyJwpMoPInCkyg8icKTKDyJwpMoPInCkziLxQKJRMJ4aDwe4/T0
-1PwiAM/Pz1Zuen9/t3DNl2azidfXV+Od6XQKAHCKxeJv47X/dnd3lwD+mmwEAgHn+vr6l417zs7O
-sLGxMQfgmewEg8HAxcVF0NZNpVLpzz/M4JXqq66/QAAAAABJRU5ErkJggg==
+       y="101.50506"
+       x="89.785713"
+       id="image3475"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIEAAACICAYAAADAr4iYAAAABHNCSVQICAgIfAhkiAAAA3xJREFU
+eJzt3bFKa1kYQOGVzBEZtUgMErRRwUIIDiiiAScYgp2CYGVtZ2Vr4xNYqJWdxRQWmcbqEm7hA4iK
+BIXAWAlRSBEt1EQUM83caa+XkxML1/cA/78PWchuZMfi8XgrnU6jr+fp6YmlpaVvQTqd5vb29rPP
+o0+ws7PD6ekp8c8+iD6fEcgIZATCCIQRCCMQRiCMQBiBMAJhBMIIhBEIIxBGIIxAGIEwAmEEwgiE
+EQgjEEYgIGi1WtTr9dCDuru76e3tbcOR9DPv7+88PDyEnvP8/AxALJPJtMIOe3x8pFAocHBwEPpg
++rlKpcL09DQjIyOhZy0sLPwdXF5ehh5UKpUoFouh5+jjZmZmOD4+bseoU+8E8mIoIxBGIIxAGIEw
+AmEEwgiEEQgjEEYgjEAYgTACYQTCCIQRCCMQRiCMQBiBMAJhBAKC6+vr0EPu7u7acBT9ikajQTt+
+uyAIfg8ymQyzs7Ohhy0uLoaeoY/p6emhq6uLtbW1UHOq1SrZbHYmNjg42PI1tK/pv9fQvnknkBdD
+GYEwAmEEwgiEEQgjEEYgjEAYgTACYQTCCIQRCCMQRiCMQBiBMAJhBMIIhBEIIxAQvL6+cnJyEnrQ
+wMAAo6OjbTiSfqbZbFIul0PPubm5ASC2vLwc+jW0Wq3G+Pi4r6F1SKVSIZfLMTc3F3rW5OTkX8HR
+0VHoQb6G1nkTExO047cDrrwTyIuhjEAYgTACYQTCCIQRCCMQRiCMQBiBMAJhBMIIhBEIIxBGIIxA
+GIEwAmEEwgiEEQgISqVS6CFnZ2dtOIp+Rb1epx2/XV9fXzJYWVlhdXU19LBcLhd6hj4mkUgwNTUV
++r++rq6uGBsb+8PX0L4wX0PT/4xARiAjEEYgjEBA0IklzWaT5+fnyPfE43ESiUSkOzr1LbFYjGQy
+Gfke6FAE29vb7O/v09/fH+meWq1GrVaLdMfe3h67u7ukUqlI91SrVe7v7yPd8UNHIgDY2tpifX09
+0h1DQ0ORzv9hc3OTjY2NSHd06lvAO4EwAmEEwgiEEQgjEEYgjEAYgTACYQTCCIQRCCMQRiAgaDQa
+HB4eRrqkXC5TKBQi3QHw8vIS+bdcXFyQzWYj3QHw9vYW+becn58DEMzPz5924hGrZDL5DxDpvzrl
+8/lcsViM/K9bKpW6BqpR7sjn838Wi8XfotwBMDw8/P1fSyXWMtzFbakAAAAASUVORK5CYII=
 "
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
-       height="101"
-       width="94" />
+       height="136"
+       width="129" />
   </g>
 </svg>
